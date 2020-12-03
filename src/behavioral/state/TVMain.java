@@ -1,4 +1,4 @@
-package behavioral.state.ReadMe;
+package behavioral.state;
 
 public class TVMain {
 
